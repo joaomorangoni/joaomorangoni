@@ -53,8 +53,8 @@ Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de softw
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiagohenriquemorangoni-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenriquemorangoni-stack&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaomorangoni-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomorangoni-stack&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
