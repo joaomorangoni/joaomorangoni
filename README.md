@@ -52,15 +52,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de softw
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaomorangoni&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomorangoni&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas" />
-</div>
-
----
-
 ## 📫 Como me encontrar
 
 <p>
